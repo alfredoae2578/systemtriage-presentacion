@@ -16,19 +16,31 @@ Proyecto móvil para apoyar flujos de triaje e incidentes de emergencia, con vis
 
 ## Vista del proyecto
 
-Se muestra un extracto del póster sin la lista de matrículas, junto con maquetas de diseño. El video enlazado corresponde a la presentación pública del proyecto.
+Póster y maquetas del proyecto de 2026. Las dos pantallas añadidas provienen del archivo original de Figma y son diseños de interfaz.
+
+### Logo vectorial de SystemTriage
 
 <img src="media/systemtriage-logo.svg" width="340" alt="Logo vectorial de SystemTriage" />
 
+### Extracto del póster de SystemTriage
+
 <img src="media/systemtriage-poster-extracto.png" width="860" alt="Extracto del póster de SystemTriage" />
+
+### Maqueta del registro de paciente
 
 <img src="media/systemtriage-registro.png" width="250" alt="Maqueta del registro de paciente" />
 
+### Maqueta del flujo de clasificación guiada
+
 <img src="media/systemtriage-clasificacion.png" width="250" alt="Maqueta del flujo de clasificación guiada" />
 
-## Explorar
+### Diseño Figma del registro de incidente
 
-- [Video público de SystemTriage](https://youtube.com/shorts/peQS5-mBqag)
+<img src="media/systemtriage-figma-incidente.png" width="300" alt="Diseño Figma del registro de incidente" />
+
+### Diseño Figma del inicio de triage guiado
+
+<img src="media/systemtriage-figma-triage.png" width="300" alt="Diseño Figma del inicio de triage guiado" />
 
 ## Contexto
 
